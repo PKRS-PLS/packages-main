@@ -1,6 +1,4 @@
-# packages-main
-
-## Index des applications
+# Index des applications
 
 PKRSPLS est un projet gratuit développé par @Ocin4Ever et @NotTrueFalse
 

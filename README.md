@@ -1,6 +1,6 @@
 # Index des applications
 
-PKRSPLS est un projet gratuit développé par @Ocin4Ever et @NotTrueFalse<br/><br/>
+PKRSPLS est un projet gratuit développé par @Ocin4Ever et @NotTrueFalse<br/><br/><br/>
 
 Lien du Mega complet : https://mega.nz/folder/jdk2hSzI#xXy10-dcIEuA8U7fzb4vow
 

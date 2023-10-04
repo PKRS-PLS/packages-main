@@ -1,8 +1,12 @@
 # packages-main
 
+## Index des applications
+
 PKRSPLS est un projet gratuit développé par @Ocin4Ever et @NotTrueFalse
 
-Voici la liste des applications disponibles :
+Lien du Mega complet : https://mega.nz/folder/jdk2hSzI#xXy10-dcIEuA8U7fzb4vow
+
+Voici la liste des applications disponibles ainsi que leur lien direct :
 
 | Nom | Version | Lien | Remarque |
 | :-: | :-: | :-: | :-: |

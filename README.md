@@ -1,19 +1,15 @@
 # packages-main
 
-Voici la liste des applications disponibles :
+PKRSPLS est un projet gratuit développé par @Ocin4Ever et @NotTrueFalse
 
-Pour installer une application :
-* télécharger le fichier d'installation
-* Si votre navigateur le bloque, cliquer sur conserver quand même
-* Lancer l'éxecutable et contourner le message de sécuriter en cliquant sur en savoir plus puis sur ouvrir quand même
-* Suivez les étapes et voilà
+Voici la liste des applications disponibles :
 
 | Nom | Version | Lien | Remarque |
 | :-: | :-: | :-: | :-: |
 | Visual Studio Code | 1.78.2 |
 | Blender | 3.5.1.0 |
 | OBS Studio | 29.1.3.0 |
-| Audacity | 3.3.2 |
+| Audacity | 3.3.2 | https://mega.nz/folder/PUEVmbBR#mCz-Z0x8GGM8k1db_ziP9Q |
 | Notepad++ | 8.5.3 |
 |Inkscape | 1.3 |
 | Opera | 101.0.4843.33 |

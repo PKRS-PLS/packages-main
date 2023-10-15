@@ -13,7 +13,7 @@ Voici la liste des applications disponibles ainsi que leur lien direct :
 | OBS Studio | 29.1.3.0 | https://mega.nz/folder/mBkgFLLB#LWCmg86mk6aJ3w5pirYB4Q |
 | Audacity | 3.3.2 | https://mega.nz/folder/PUEVmbBR#mCz-Z0x8GGM8k1db_ziP9Q |
 | Notepad++ | 8.5.3 | https://mega.nz/folder/6FNzWCoC#phHqAS6X17hyrz49L2_hjQ |
-| Inkscape | 1.3 | |
+| Inkscape | 1.3 | soon |
 | Opera | 101.0.4843.33 | https://mega.nz/folder/XV8ClQRA#HfoituFLDtlKUAMSD6wDYA |
 | Firefox | 116.0.0.8608 | https://mega.nz/folder/KM9X0STQ#kkhSXbLCNdg5DUZdXqVLhw |
 | Chrome | 115.0.5790.171 | https://mega.nz/folder/PctSUS5S#gSQ58Tc9t4FNiJKQkunhJQ |
